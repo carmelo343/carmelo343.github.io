@@ -1,3 +1,3 @@
 # carmelo343.com
 
-My personal website
+My landing page
