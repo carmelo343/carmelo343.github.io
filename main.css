@@ -34,7 +34,7 @@ main.attention {
     top: 50%;
     left: 50%;
     color: #FEE715FF;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%,-100%);
 }
 
 main.attention>h1, main.attention>span {
